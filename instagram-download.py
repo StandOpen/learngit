@@ -1,7 +1,4 @@
-import bottle
-from bottle import route, post, run, request
-from instagram import client, subscriptions
-import urllib
+
 
 bottle.debug(True)
 
